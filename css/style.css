@@ -32,4 +32,7 @@ figcaption {
 /*ID selcector {one unique element per page} always starts with # without a # it's looking for a type selector. with period it's looking for a class. with pound it's looking for ID*/
 #logo { /*selects elements with ID equal to logo*/
   background: aqua;
-  
+}
+
+/*descendent */
+#logo h1 {/*space says to look for descendents. only selects
