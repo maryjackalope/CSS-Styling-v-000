@@ -38,3 +38,13 @@ figcaption {
 #logo h1 {/*space says to look for descendents. only selects h1 within logo */
   font-family: 'Clicker Script', cursive;
 }
+#logo h2 {
+  font-family: 'Elsie', cursive;
+}
+
+/* Pseudo Selector */
+
+#details a:link{
+  color: black;
+  text-decoration:none;
+}
