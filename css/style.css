@@ -16,7 +16,7 @@ figcaption {
   font-size: 0.75em;
   line-height: 1.5em;
   font-family: Georgia, "New Times Roman", serif;*/
-  font: normal 0.75em/1.5em , "New Times Roman", serif;
+  font: normal 0.75em/1.5em , "Elsie", cursive;
   color: #777;
   text-align: right;
 }
@@ -24,6 +24,6 @@ figcaption {
 /* class selector*/
 
 .milk-text {
-  font: bold 2.6em 'Elsie'
+  font: bold 2.6em 'Elsie';
   color: white;
 }
