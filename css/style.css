@@ -35,4 +35,4 @@ figcaption {
 }
 
 /*descendent */
-#logo h1 {/*space says to look for descendents. only selects
+#logo h1 {/*space says to look for descendents. only selects h1 within logo
