@@ -21,7 +21,7 @@ figcaption {
   text-align: right;
 }
 
-/* class selector*/
+/* class selector [applies to as many elements as you'd like*/
 
 .milk-text {
   font: bold 2.6em 'Elsie', cursive;
